@@ -1,2 +1,6 @@
 petrol_data_scrapping/*
-!petrol_data_scrapping/.gitkeep
+!get_data.py
+!main.py
+
+!petrol_data_scrapping/data
+!petrol_data_scrapping/drivers
