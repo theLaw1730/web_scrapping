@@ -1,6 +1,8 @@
-petrol_data_scrapping/*
-!get_data.py
-!main.py
+petrol_data_scrapping/selenium/*
+!petrol_data_scrapping/selenium/get_data.py
+!petrol_data_scrapping/selenium/main.py
 
-!petrol_data_scrapping/data
-!petrol_data_scrapping/drivers
+!petrol_data_scrapping/selenium/data
+!petrol_data_scrapping/selenium/drivers
+
+petrol_data_scrapping/beautiful_soup/*
